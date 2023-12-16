@@ -1,0 +1,6 @@
+ipywidgets
+jupyterlab
+numpy
+pandas
+phoenixdb
+tqdm

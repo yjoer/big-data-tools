@@ -1,0 +1,537 @@
+,PLATFORM,TYPE,RELEASE_YEAR,COUNT
+0,amazon_prime,Movie,1920,3
+1,amazon_prime,Movie,1922,2
+2,amazon_prime,Movie,1923,1
+3,amazon_prime,Movie,1924,1
+4,amazon_prime,Movie,1925,8
+5,amazon_prime,Movie,1926,2
+6,amazon_prime,Movie,1927,1
+7,amazon_prime,Movie,1929,4
+8,amazon_prime,Movie,1930,5
+9,amazon_prime,Movie,1931,3
+10,amazon_prime,Movie,1932,7
+11,amazon_prime,Movie,1933,5
+12,amazon_prime,Movie,1934,12
+13,amazon_prime,Movie,1935,15
+14,amazon_prime,Movie,1936,28
+15,amazon_prime,Movie,1937,24
+16,amazon_prime,Movie,1938,15
+17,amazon_prime,Movie,1939,21
+18,amazon_prime,Movie,1940,16
+19,amazon_prime,Movie,1941,22
+20,amazon_prime,Movie,1942,16
+21,amazon_prime,Movie,1943,21
+22,amazon_prime,Movie,1944,12
+23,amazon_prime,Movie,1945,13
+24,amazon_prime,Movie,1946,20
+25,amazon_prime,Movie,1947,22
+26,amazon_prime,Movie,1948,15
+27,amazon_prime,Movie,1949,14
+28,amazon_prime,Movie,1950,21
+29,amazon_prime,Movie,1951,18
+30,amazon_prime,Movie,1952,16
+31,amazon_prime,Movie,1953,21
+32,amazon_prime,Movie,1954,12
+33,amazon_prime,Movie,1955,8
+34,amazon_prime,Movie,1956,17
+35,amazon_prime,Movie,1957,5
+36,amazon_prime,Movie,1958,15
+37,amazon_prime,Movie,1959,16
+38,amazon_prime,Movie,1960,11
+39,amazon_prime,Movie,1961,10
+40,amazon_prime,Movie,1962,11
+41,amazon_prime,Movie,1963,18
+42,amazon_prime,Movie,1964,13
+43,amazon_prime,Movie,1965,9
+44,amazon_prime,Movie,1966,10
+45,amazon_prime,Movie,1967,15
+46,amazon_prime,Movie,1968,18
+47,amazon_prime,Movie,1969,14
+48,amazon_prime,Movie,1970,25
+49,amazon_prime,Movie,1971,16
+50,amazon_prime,Movie,1972,19
+51,amazon_prime,Movie,1973,17
+52,amazon_prime,Movie,1974,21
+53,amazon_prime,Movie,1975,26
+54,amazon_prime,Movie,1976,12
+55,amazon_prime,Movie,1977,14
+56,amazon_prime,Movie,1978,18
+57,amazon_prime,Movie,1979,15
+58,amazon_prime,Movie,1980,25
+59,amazon_prime,Movie,1981,19
+60,amazon_prime,Movie,1982,17
+61,amazon_prime,Movie,1983,16
+62,amazon_prime,Movie,1984,25
+63,amazon_prime,Movie,1985,26
+64,amazon_prime,Movie,1986,36
+65,amazon_prime,Movie,1987,32
+66,amazon_prime,Movie,1988,42
+67,amazon_prime,Movie,1989,39
+68,amazon_prime,Movie,1990,36
+69,amazon_prime,Movie,1991,42
+70,amazon_prime,Movie,1992,52
+71,amazon_prime,Movie,1993,54
+72,amazon_prime,Movie,1994,60
+73,amazon_prime,Movie,1995,62
+74,amazon_prime,Movie,1996,60
+75,amazon_prime,Movie,1997,53
+76,amazon_prime,Movie,1998,52
+77,amazon_prime,Movie,1999,55
+78,amazon_prime,Movie,2000,72
+79,amazon_prime,Movie,2001,73
+80,amazon_prime,Movie,2002,83
+81,amazon_prime,Movie,2003,68
+82,amazon_prime,Movie,2004,89
+83,amazon_prime,Movie,2005,91
+84,amazon_prime,Movie,2006,120
+85,amazon_prime,Movie,2007,157
+86,amazon_prime,Movie,2008,138
+87,amazon_prime,Movie,2009,117
+88,amazon_prime,Movie,2010,152
+89,amazon_prime,Movie,2011,212
+90,amazon_prime,Movie,2012,197
+91,amazon_prime,Movie,2013,227
+92,amazon_prime,Movie,2014,295
+93,amazon_prime,Movie,2015,282
+94,amazon_prime,Movie,2016,402
+95,amazon_prime,Movie,2017,404
+96,amazon_prime,Movie,2018,438
+97,amazon_prime,Movie,2019,730
+98,amazon_prime,Movie,2020,736
+99,amazon_prime,Movie,2021,1139
+100,amazon_prime,TV Show,1932,1
+101,amazon_prime,TV Show,1936,1
+102,amazon_prime,TV Show,1945,1
+103,amazon_prime,TV Show,1946,1
+104,amazon_prime,TV Show,1954,3
+105,amazon_prime,TV Show,1955,1
+106,amazon_prime,TV Show,1959,2
+107,amazon_prime,TV Show,1960,1
+108,amazon_prime,TV Show,1961,1
+109,amazon_prime,TV Show,1962,1
+110,amazon_prime,TV Show,1963,2
+111,amazon_prime,TV Show,1967,2
+112,amazon_prime,TV Show,1968,1
+113,amazon_prime,TV Show,1969,2
+114,amazon_prime,TV Show,1972,1
+115,amazon_prime,TV Show,1974,3
+116,amazon_prime,TV Show,1975,1
+117,amazon_prime,TV Show,1978,5
+118,amazon_prime,TV Show,1979,1
+119,amazon_prime,TV Show,1981,3
+120,amazon_prime,TV Show,1983,1
+121,amazon_prime,TV Show,1984,3
+122,amazon_prime,TV Show,1985,2
+123,amazon_prime,TV Show,1986,4
+124,amazon_prime,TV Show,1987,1
+125,amazon_prime,TV Show,1988,2
+126,amazon_prime,TV Show,1989,6
+127,amazon_prime,TV Show,1990,4
+128,amazon_prime,TV Show,1991,3
+129,amazon_prime,TV Show,1992,4
+130,amazon_prime,TV Show,1993,3
+131,amazon_prime,TV Show,1994,3
+132,amazon_prime,TV Show,1995,10
+133,amazon_prime,TV Show,1996,2
+134,amazon_prime,TV Show,1997,6
+135,amazon_prime,TV Show,1998,7
+136,amazon_prime,TV Show,1999,9
+137,amazon_prime,TV Show,2000,9
+138,amazon_prime,TV Show,2001,9
+139,amazon_prime,TV Show,2002,9
+140,amazon_prime,TV Show,2003,13
+141,amazon_prime,TV Show,2004,14
+142,amazon_prime,TV Show,2005,21
+143,amazon_prime,TV Show,2006,18
+144,amazon_prime,TV Show,2007,19
+145,amazon_prime,TV Show,2008,33
+146,amazon_prime,TV Show,2009,32
+147,amazon_prime,TV Show,2010,34
+148,amazon_prime,TV Show,2011,40
+149,amazon_prime,TV Show,2012,55
+150,amazon_prime,TV Show,2013,62
+151,amazon_prime,TV Show,2014,96
+152,amazon_prime,TV Show,2015,96
+153,amazon_prime,TV Show,2016,119
+154,amazon_prime,TV Show,2017,158
+155,amazon_prime,TV Show,2018,185
+156,amazon_prime,TV Show,2019,199
+157,amazon_prime,TV Show,2020,226
+158,amazon_prime,TV Show,2021,303
+159,disney,Movie,1928,1
+160,disney,Movie,1932,3
+161,disney,Movie,1933,3
+162,disney,Movie,1934,4
+163,disney,Movie,1935,4
+164,disney,Movie,1936,6
+165,disney,Movie,1937,6
+166,disney,Movie,1938,5
+167,disney,Movie,1939,5
+168,disney,Movie,1940,7
+169,disney,Movie,1941,7
+170,disney,Movie,1942,6
+171,disney,Movie,1943,2
+172,disney,Movie,1944,1
+173,disney,Movie,1945,1
+174,disney,Movie,1946,2
+175,disney,Movie,1947,5
+176,disney,Movie,1948,5
+177,disney,Movie,1949,5
+178,disney,Movie,1950,6
+179,disney,Movie,1951,4
+180,disney,Movie,1952,8
+181,disney,Movie,1953,6
+182,disney,Movie,1954,4
+183,disney,Movie,1955,7
+184,disney,Movie,1956,4
+185,disney,Movie,1957,4
+186,disney,Movie,1959,5
+187,disney,Movie,1960,3
+188,disney,Movie,1961,5
+189,disney,Movie,1962,3
+190,disney,Movie,1963,3
+191,disney,Movie,1964,3
+192,disney,Movie,1965,3
+193,disney,Movie,1966,2
+194,disney,Movie,1967,2
+195,disney,Movie,1968,1
+196,disney,Movie,1969,4
+197,disney,Movie,1970,1
+198,disney,Movie,1971,3
+199,disney,Movie,1972,3
+200,disney,Movie,1973,1
+201,disney,Movie,1974,4
+202,disney,Movie,1975,4
+203,disney,Movie,1976,3
+204,disney,Movie,1977,6
+205,disney,Movie,1978,4
+206,disney,Movie,1979,4
+207,disney,Movie,1980,4
+208,disney,Movie,1981,3
+209,disney,Movie,1982,1
+210,disney,Movie,1983,2
+211,disney,Movie,1984,4
+212,disney,Movie,1985,5
+213,disney,Movie,1986,7
+214,disney,Movie,1987,6
+215,disney,Movie,1988,5
+216,disney,Movie,1989,4
+217,disney,Movie,1990,4
+218,disney,Movie,1991,4
+219,disney,Movie,1992,7
+220,disney,Movie,1993,12
+221,disney,Movie,1994,10
+222,disney,Movie,1995,12
+223,disney,Movie,1996,11
+224,disney,Movie,1997,13
+225,disney,Movie,1998,17
+226,disney,Movie,1999,19
+227,disney,Movie,2000,22
+228,disney,Movie,2001,16
+229,disney,Movie,2002,20
+230,disney,Movie,2003,28
+231,disney,Movie,2004,23
+232,disney,Movie,2005,28
+233,disney,Movie,2006,29
+234,disney,Movie,2007,20
+235,disney,Movie,2008,25
+236,disney,Movie,2009,32
+237,disney,Movie,2010,30
+238,disney,Movie,2011,35
+239,disney,Movie,2012,29
+240,disney,Movie,2013,20
+241,disney,Movie,2014,34
+242,disney,Movie,2015,23
+243,disney,Movie,2016,30
+244,disney,Movie,2017,33
+245,disney,Movie,2018,32
+246,disney,Movie,2019,61
+247,disney,Movie,2020,74
+248,disney,Movie,2021,70
+249,disney,TV Show,1955,2
+250,disney,TV Show,1973,1
+251,disney,TV Show,1976,1
+252,disney,TV Show,1979,1
+253,disney,TV Show,1982,1
+254,disney,TV Show,1985,3
+255,disney,TV Show,1988,1
+256,disney,TV Show,1989,3
+257,disney,TV Show,1990,1
+258,disney,TV Show,1991,2
+259,disney,TV Show,1992,3
+260,disney,TV Show,1993,2
+261,disney,TV Show,1994,4
+262,disney,TV Show,1995,1
+263,disney,TV Show,1996,6
+264,disney,TV Show,1997,4
+265,disney,TV Show,1998,3
+266,disney,TV Show,1999,3
+267,disney,TV Show,2000,4
+268,disney,TV Show,2001,2
+269,disney,TV Show,2002,1
+270,disney,TV Show,2003,1
+271,disney,TV Show,2004,5
+272,disney,TV Show,2005,4
+273,disney,TV Show,2006,3
+274,disney,TV Show,2007,3
+275,disney,TV Show,2008,8
+276,disney,TV Show,2009,3
+277,disney,TV Show,2010,9
+278,disney,TV Show,2011,17
+279,disney,TV Show,2012,12
+280,disney,TV Show,2013,12
+281,disney,TV Show,2014,16
+282,disney,TV Show,2015,23
+283,disney,TV Show,2016,31
+284,disney,TV Show,2017,36
+285,disney,TV Show,2018,33
+286,disney,TV Show,2019,38
+287,disney,TV Show,2020,40
+288,disney,TV Show,2021,55
+289,hulu,Movie,1923,1
+290,hulu,Movie,1950,3
+291,hulu,Movie,1951,1
+292,hulu,Movie,1953,3
+293,hulu,Movie,1954,1
+294,hulu,Movie,1955,1
+295,hulu,Movie,1957,3
+296,hulu,Movie,1958,1
+297,hulu,Movie,1959,1
+298,hulu,Movie,1962,3
+299,hulu,Movie,1963,3
+300,hulu,Movie,1964,2
+301,hulu,Movie,1965,3
+302,hulu,Movie,1966,1
+303,hulu,Movie,1967,1
+304,hulu,Movie,1968,1
+305,hulu,Movie,1969,1
+306,hulu,Movie,1970,1
+307,hulu,Movie,1971,2
+308,hulu,Movie,1972,4
+309,hulu,Movie,1973,3
+310,hulu,Movie,1974,3
+311,hulu,Movie,1975,2
+312,hulu,Movie,1976,1
+313,hulu,Movie,1977,1
+314,hulu,Movie,1979,5
+315,hulu,Movie,1980,1
+316,hulu,Movie,1981,1
+317,hulu,Movie,1982,3
+318,hulu,Movie,1983,1
+319,hulu,Movie,1984,5
+320,hulu,Movie,1985,4
+321,hulu,Movie,1986,5
+322,hulu,Movie,1987,4
+323,hulu,Movie,1988,5
+324,hulu,Movie,1989,4
+325,hulu,Movie,1990,4
+326,hulu,Movie,1991,4
+327,hulu,Movie,1992,2
+328,hulu,Movie,1993,10
+329,hulu,Movie,1994,9
+330,hulu,Movie,1995,9
+331,hulu,Movie,1996,4
+332,hulu,Movie,1997,12
+333,hulu,Movie,1998,11
+334,hulu,Movie,1999,12
+335,hulu,Movie,2000,13
+336,hulu,Movie,2001,9
+337,hulu,Movie,2002,17
+338,hulu,Movie,2003,15
+339,hulu,Movie,2004,18
+340,hulu,Movie,2005,8
+341,hulu,Movie,2006,14
+342,hulu,Movie,2007,15
+343,hulu,Movie,2008,13
+344,hulu,Movie,2009,23
+345,hulu,Movie,2010,20
+346,hulu,Movie,2011,34
+347,hulu,Movie,2012,51
+348,hulu,Movie,2013,48
+349,hulu,Movie,2014,47
+350,hulu,Movie,2015,59
+351,hulu,Movie,2016,69
+352,hulu,Movie,2017,117
+353,hulu,Movie,2018,157
+354,hulu,Movie,2019,238
+355,hulu,Movie,2020,226
+356,hulu,Movie,2021,111
+357,hulu,TV Show,1933,1
+358,hulu,TV Show,1951,1
+359,hulu,TV Show,1953,1
+360,hulu,TV Show,1955,1
+361,hulu,TV Show,1957,1
+362,hulu,TV Show,1958,1
+363,hulu,TV Show,1959,1
+364,hulu,TV Show,1960,1
+365,hulu,TV Show,1961,1
+366,hulu,TV Show,1963,1
+367,hulu,TV Show,1965,2
+368,hulu,TV Show,1966,1
+369,hulu,TV Show,1967,1
+370,hulu,TV Show,1969,1
+371,hulu,TV Show,1970,2
+372,hulu,TV Show,1972,2
+373,hulu,TV Show,1975,1
+374,hulu,TV Show,1978,2
+375,hulu,TV Show,1980,1
+376,hulu,TV Show,1981,3
+377,hulu,TV Show,1982,3
+378,hulu,TV Show,1983,3
+379,hulu,TV Show,1984,2
+380,hulu,TV Show,1985,3
+381,hulu,TV Show,1986,1
+382,hulu,TV Show,1987,1
+383,hulu,TV Show,1988,3
+384,hulu,TV Show,1989,6
+385,hulu,TV Show,1990,5
+386,hulu,TV Show,1991,3
+387,hulu,TV Show,1992,5
+388,hulu,TV Show,1993,6
+389,hulu,TV Show,1994,5
+390,hulu,TV Show,1995,6
+391,hulu,TV Show,1996,10
+392,hulu,TV Show,1997,9
+393,hulu,TV Show,1998,12
+394,hulu,TV Show,1999,13
+395,hulu,TV Show,2000,10
+396,hulu,TV Show,2001,19
+397,hulu,TV Show,2002,8
+398,hulu,TV Show,2003,16
+399,hulu,TV Show,2004,19
+400,hulu,TV Show,2005,34
+401,hulu,TV Show,2006,43
+402,hulu,TV Show,2007,32
+403,hulu,TV Show,2008,33
+404,hulu,TV Show,2009,55
+405,hulu,TV Show,2010,53
+406,hulu,TV Show,2011,52
+407,hulu,TV Show,2012,68
+408,hulu,TV Show,2013,78
+409,hulu,TV Show,2014,82
+410,hulu,TV Show,2015,104
+411,hulu,TV Show,2016,96
+412,hulu,TV Show,2017,112
+413,hulu,TV Show,2018,113
+414,hulu,TV Show,2019,174
+415,hulu,TV Show,2020,151
+416,hulu,TV Show,2021,115
+417,netflix,Movie,1942,2
+418,netflix,Movie,1943,3
+419,netflix,Movie,1944,3
+420,netflix,Movie,1945,3
+421,netflix,Movie,1946,1
+422,netflix,Movie,1947,1
+423,netflix,Movie,1954,2
+424,netflix,Movie,1955,3
+425,netflix,Movie,1956,2
+426,netflix,Movie,1958,3
+427,netflix,Movie,1959,1
+428,netflix,Movie,1960,4
+429,netflix,Movie,1961,1
+430,netflix,Movie,1962,3
+431,netflix,Movie,1963,1
+432,netflix,Movie,1964,2
+433,netflix,Movie,1965,2
+434,netflix,Movie,1966,1
+435,netflix,Movie,1967,4
+436,netflix,Movie,1968,3
+437,netflix,Movie,1969,2
+438,netflix,Movie,1970,2
+439,netflix,Movie,1971,5
+440,netflix,Movie,1972,4
+441,netflix,Movie,1973,10
+442,netflix,Movie,1974,6
+443,netflix,Movie,1975,7
+444,netflix,Movie,1976,9
+445,netflix,Movie,1977,6
+446,netflix,Movie,1978,7
+447,netflix,Movie,1979,10
+448,netflix,Movie,1980,11
+449,netflix,Movie,1981,12
+450,netflix,Movie,1982,17
+451,netflix,Movie,1983,11
+452,netflix,Movie,1984,12
+453,netflix,Movie,1985,9
+454,netflix,Movie,1986,11
+455,netflix,Movie,1987,8
+456,netflix,Movie,1988,16
+457,netflix,Movie,1989,15
+458,netflix,Movie,1990,19
+459,netflix,Movie,1991,16
+460,netflix,Movie,1992,20
+461,netflix,Movie,1993,24
+462,netflix,Movie,1994,20
+463,netflix,Movie,1995,23
+464,netflix,Movie,1996,21
+465,netflix,Movie,1997,34
+466,netflix,Movie,1998,32
+467,netflix,Movie,1999,32
+468,netflix,Movie,2000,33
+469,netflix,Movie,2001,40
+470,netflix,Movie,2002,44
+471,netflix,Movie,2003,51
+472,netflix,Movie,2004,55
+473,netflix,Movie,2005,67
+474,netflix,Movie,2006,82
+475,netflix,Movie,2007,74
+476,netflix,Movie,2008,113
+477,netflix,Movie,2009,118
+478,netflix,Movie,2010,154
+479,netflix,Movie,2011,145
+480,netflix,Movie,2012,173
+481,netflix,Movie,2013,225
+482,netflix,Movie,2014,264
+483,netflix,Movie,2015,398
+484,netflix,Movie,2016,658
+485,netflix,Movie,2017,767
+486,netflix,Movie,2018,767
+487,netflix,Movie,2019,633
+488,netflix,Movie,2020,517
+489,netflix,Movie,2021,277
+490,netflix,TV Show,1925,1
+491,netflix,TV Show,1945,1
+492,netflix,TV Show,1946,1
+493,netflix,TV Show,1963,1
+494,netflix,TV Show,1967,1
+495,netflix,TV Show,1972,1
+496,netflix,TV Show,1974,1
+497,netflix,TV Show,1977,1
+498,netflix,TV Show,1979,1
+499,netflix,TV Show,1981,1
+500,netflix,TV Show,1985,1
+501,netflix,TV Show,1986,2
+502,netflix,TV Show,1988,2
+503,netflix,TV Show,1989,1
+504,netflix,TV Show,1990,3
+505,netflix,TV Show,1991,1
+506,netflix,TV Show,1992,3
+507,netflix,TV Show,1993,4
+508,netflix,TV Show,1994,2
+509,netflix,TV Show,1995,2
+510,netflix,TV Show,1996,3
+511,netflix,TV Show,1997,4
+512,netflix,TV Show,1998,4
+513,netflix,TV Show,1999,7
+514,netflix,TV Show,2000,4
+515,netflix,TV Show,2001,5
+516,netflix,TV Show,2002,7
+517,netflix,TV Show,2003,10
+518,netflix,TV Show,2004,9
+519,netflix,TV Show,2005,13
+520,netflix,TV Show,2006,14
+521,netflix,TV Show,2007,14
+522,netflix,TV Show,2008,23
+523,netflix,TV Show,2009,34
+524,netflix,TV Show,2010,40
+525,netflix,TV Show,2011,40
+526,netflix,TV Show,2012,64
+527,netflix,TV Show,2013,63
+528,netflix,TV Show,2014,88
+529,netflix,TV Show,2015,162
+530,netflix,TV Show,2016,244
+531,netflix,TV Show,2017,265
+532,netflix,TV Show,2018,380
+533,netflix,TV Show,2019,397
+534,netflix,TV Show,2020,436
+535,netflix,TV Show,2021,315
