@@ -4,6 +4,7 @@ numpy
 pandas
 phoenixdb
 pyhive
+pymongo
 pyspark
 python-dotenv
 thrift
