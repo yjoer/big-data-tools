@@ -3,4 +3,7 @@ jupyterlab
 numpy
 pandas
 phoenixdb
+pyhive
+thrift
+thrift_sasl
 tqdm
