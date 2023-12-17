@@ -4,6 +4,8 @@ numpy
 pandas
 phoenixdb
 pyhive
+pyspark
+python-dotenv
 thrift
 thrift_sasl
 tqdm
